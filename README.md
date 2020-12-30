@@ -1,7 +1,6 @@
 # FloodML
 FloodML is a web application that uses Machine Learning to predict floods based on weather and and various historical data.
-
-https://floodml.herokuapp.com/
+https://floodmonitor.herokuapp.com/
 
 ## Getting started
 - Clone the project and install dependencies
